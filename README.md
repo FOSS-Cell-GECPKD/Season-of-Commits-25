@@ -1,6 +1,6 @@
 # Season of Commits 25 - GEC Palakkad Local Edition
 
-![](/home/vichukartha/Projects/Season%20of%20Commits%2025/assets/images/season_of_commits.png)
+![](./assets/images/season_of_commits.png)
 
 ## Introduction
 
