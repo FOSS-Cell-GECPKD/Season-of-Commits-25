@@ -14,7 +14,7 @@ These are the projects that are available to to us along with their mentors, bas
 
 #### FOSS Clubs GEC Palakkad Website
 
-{% @github-files/github-code-block %}
+{% @github-files/github-code-block url="https://github.com/FOSS-Cell-GECPKD/FOSS_GECPKD_Website" %}
 
 The official website of the FOSS Clubs (Free and Open Source Software Clubs) at Government Engineering College, Palakkad. The website is built using Vue.js, a progressive JavaScript framework for building user interfaces.
 
