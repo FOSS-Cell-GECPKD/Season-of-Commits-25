@@ -1,6 +1,10 @@
-# Season of Commits 25 - GEC Palakkad Local Edition
+---
+icon: hand-wave
+---
 
-![](./assets/images/season_of_commits.png)
+# Season of Commits '25 - GEC Palakkad
+
+![](assets/images/season_of_commits.png)
 
 ## Introduction
 
@@ -8,7 +12,7 @@ This proposal outlines the plan for hosting Season Of Commits Fest 2025.Season O
 
 ## Timeline
 
-The plan is to conduct a season of commits during the month of January 3-4 weeks full of contributions, short and interesting sessions on topics like self hosting, project setups. Ideally have a workshop/tutorial on very useful software solutions, or frameworks ideally one session per week. 
+The plan is to conduct a season of commits during the month of January 3-4 weeks full of contributions, short and interesting sessions on topics like self hosting, project setups. Ideally have a workshop/tutorial on very useful software solutions, or frameworks ideally one session per week.&#x20;
 
 ## Objective
 
@@ -16,13 +20,10 @@ The primary objective of Season Of Commits Fest 2025 is to engage students in co
 
 ## Resources Required
 
-- Access to open-source repositories on GitHub.
-
-- A system for tracking contributions and maintaining the leaderboard.
-
-- Prizes and awards for contributors.
-
-- A team of mentors and maintainers to guide and review contributions.
+* Access to open-source repositories on GitHub.
+* A system for tracking contributions and maintaining the leaderboard.
+* Prizes and awards for contributors.
+* A team of mentors and maintainers to guide and review contributions.
 
 ## Event Scope
 
@@ -30,13 +31,10 @@ Season Of Commits Fest 2025 will be a month-long event where students across dif
 
 ## Key Areas of Contribution
 
-- Code enhancements and new feature implementation
-
-- Bug fixing and resolution
-
-- Improvements in project documentation
-
-- User experience and design updates
+* Code enhancements and new feature implementation
+* Bug fixing and resolution
+* Improvements in project documentation
+* User experience and design updates
 
 ## 1. Open Repositories
 
@@ -82,6 +80,4 @@ Season Of Commits Fest 2025 will provide students at our college with a unique o
 
 We are excited about the potential of Season Of Commits Fest 2025 to positively impact the student community and encourage long-term participation in open-source development. We look forward to working together to ensure the event's success.
 
-
-
-_Adapted from MITS Season fo Commits Documentation ([Season of Commits - Google Docs](https://docs.google.com/document/d/1rIu3YmC0UgLrddHkkUrnw20j6uS3b5MK277KHU5J7uk/edit?usp=sharing))_
+_Adapted from MITS Season fo Commits Documentation (_[_Season of Commits - Google Docs_](https://docs.google.com/document/d/1rIu3YmC0UgLrddHkkUrnw20j6uS3b5MK277KHU5J7uk/edit?usp=sharing)_)_
